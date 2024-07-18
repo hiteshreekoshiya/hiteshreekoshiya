@@ -12,6 +12,8 @@ A seasoned Senior Frontend Engineer with over 3 years of expertise in web and mo
 
 ### [Miratrix](https://miratrix.co.uk) 🏡 👑
 
+### [Class Care](https://play.google.com/store/apps/details?id=com.wamasoftware.classcare) 🏡 👑
+
 ### [Coinscrum](https://coinscrum.com) 🟡
 
 ## Things I code with
