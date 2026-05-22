@@ -4,9 +4,9 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="24"/> Hey! I'm Hiteshree</h1>
 
 Welcome to my page!
-I'm Hiteshree, Frontend Software Engineer & Enthusiastic about open-source collaborative coding!.
+I'm Hiteshree, Full Stack Software Engineer & Enthusiastic about open-source collaborative coding!.
 
-A seasoned Senior Frontend Engineer with over 3 years of expertise in web and mobile application development. Specializing in frontend, I excel in technologies like NextJs, ReactJS, and more. On the mobile front, I'm proficient in React Native CLI, Expo, Fastlane, and Firebase. Backend development is a forte with skills in Node.js, Express.js, Firebase, AWS. Database design includes PostgreSQL, MongoDB, and more. And adept at deploying applications with AWS, Docker, GitLab CI/CD, Vercel, and Netlify.
+A seasoned Fullstack Engineer with over 5 years of expertise in web and mobile application development. Specializing in Fullstack, I excel in technologies like NextJs, ReactJS and more. On the mobile front, I'm proficient in React Native CLI, Expo, Fastlane, and Firebase. Backend development is a forte with skills in Node.js, Express.js, Firebase, AWS. Database design includes PostgreSQL, MongoDB, and more. And adept at deploying applications with AWS, Docker, GitLab CI/CD, Vercel, and Netlify.
 
 ## 🌟 Cool Initiatives I've Contributed At
 
